@@ -12,7 +12,7 @@ const Project = () => {
               <li>
                 <strong>Front-End Repository:</strong>{" "}
                 <a
-                  href="https://github.com/quangvu3103/portfolio"
+                  href="https://github.com/quangvu3103/final-fe"
                   className="text-blue-600 underline"
                 >
                   GitHub FE
@@ -21,7 +21,7 @@ const Project = () => {
               <li>
                 <strong>Back-End Repository:</strong>{" "}
                 <a
-                  href="https://github.com/quangvu3103/portfolio"
+                  href="https://github.com/quangvu3103/Final-backend"
                   className="text-blue-600 underline"
                 >
                   GitHub BE
@@ -55,7 +55,7 @@ const Project = () => {
               <li>
                 <strong>Repository:</strong>{" "}
                 <a
-                  href="https://github.com/quangvu3103/portfolio"
+                  href="https://github.com/quangvu3103"
                   className="text-blue-600 underline"
                 >
                   GitHub Link
