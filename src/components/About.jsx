@@ -10,7 +10,11 @@ const About = () => {
       <div className="flex flex-wrap">
         <div className="w-full lg:w-1/2 lg:p-8">
           <div className="flex items-center justify-center">
-            <img className="rounded-lg h-60" src={avatarProfile} alt="avatar" />
+            <img
+              className="rounded-lg h-60 "
+              src={avatarProfile}
+              alt="avatar"
+            />
           </div>
         </div>
         <div className="w-full lg:w-1/2">
